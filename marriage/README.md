@@ -1,3 +1,7 @@
+# Weddings
+Many things that are interesting about wedding data. First we are focussing on wedding costs because 2020 has disrupted a lot of planned weddings and it's interesting to compare how things have recovered in 2021.
+
+## Chart ideas with links to data
 https://www.ons.gov.uk/visualisations/marriages/marriages/index.html
 https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales
 https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/2019
