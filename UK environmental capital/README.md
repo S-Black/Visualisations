@@ -1,11 +1,4 @@
+# UK Environmental Accounts
+There are a lot of different data sets regarding environmental themes on [this ONS website](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/habitatextentandconditionnaturalcapitaluk/2022). 
 
-Bees: Plot moutnain, coast bubble chart with custom marker
-https://stackoverflow.com/questions/22566284/matplotlib-how-to-plot-images-instead-of-points
-https://stackoverflow.com/questions/14324270/matplotlib-custom-marker-symbol
-
-theme:https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/habitatextentandconditionnaturalcapitaluk/2022
-data
-https://www.ons.gov.uk/economy/environmentalaccounts/datasets/habitatconditionnaturalcapitaluksupplementaryinformation
-
-Wildfires
-Woodland on farmland
+Data for the bee chart comes from [this place](https://www.ons.gov.uk/economy/environmentalaccounts/datasets/habitatconditionnaturalcapitaluksupplementaryinformation).
